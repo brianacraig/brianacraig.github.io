@@ -1,4 +1,4 @@
---
+---
 layout: article
 title: "Hello GitHub!"
 ---
